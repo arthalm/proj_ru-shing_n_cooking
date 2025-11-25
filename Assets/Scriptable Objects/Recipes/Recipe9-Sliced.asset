@@ -18,4 +18,4 @@ MonoBehaviour:
   finalItem: {fileID: 11400000, guid: 7c8db7d4115026e42a02232256699dc4, type: 2}
   time: 15
   icon: {fileID: -5177388603050735206, guid: c92066388b19ade4b8ab080658f50779, type: 3}
-  description: 
+  description: This recipe needs Square and Circle

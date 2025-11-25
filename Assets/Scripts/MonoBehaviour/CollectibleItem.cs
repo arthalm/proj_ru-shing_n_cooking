@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class CollectibleItem : MonoBehaviour
 {
-    private Item itemData;
+    [SerializeField] private Item itemData;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -17,6 +17,17 @@ public class CollectibleItem : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("o que deu trigger: " + other.name);
+        if (other.CompareTag("Player"))
+        {
+            PlayerInventory inventory = other.transform.root.GetComponent<PlayerInventory>();
+            if (inventory != null)
+            {
+                if (!inventory.hasItem)
+                {
+                    inventory.AddItem(itemData);
+                    Destroy(gameObject);
+                }
+            }
+        }
     }
 }

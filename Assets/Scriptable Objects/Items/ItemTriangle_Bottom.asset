@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a381b33c8ffeda4f91a9128de239f35, type: 3}
   m_Name: ItemTriangle_Bottom
   m_EditorClassIdentifier: 
-  itemName: 
-  icon: {fileID: 0}
-  description: 
-  prefab: {fileID: 0}
+  itemName: Triangle_Bottom
+  icon: {fileID: 7482667652216324306, guid: 4fdc3c6f06dd8e54a916c0778fea688a, type: 3}
+  description: A triangle bottom item for creating the "Star" item
+  prefab: {fileID: 2772156637571512460, guid: bc75a5d81f2854942af103561c9c2edb, type: 3}

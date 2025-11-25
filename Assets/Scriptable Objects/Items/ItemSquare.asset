@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: ItemSquare
   m_EditorClassIdentifier: 
   itemName: Square
-  icon: {fileID: 0}
+  icon: {fileID: 7482667652216324306, guid: 43bc549e434466e4083a879584f43d95, type: 3}
   description: A square item for creating the "9-Sliced" item
   prefab: {fileID: 6263940912904971206, guid: f254a233c2a62d04fad82b88f19c1b04, type: 3}

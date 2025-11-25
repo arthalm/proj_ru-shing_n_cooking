@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a381b33c8ffeda4f91a9128de239f35, type: 3}
   m_Name: ItemStar
   m_EditorClassIdentifier: 
-  itemName: 
-  icon: {fileID: 0}
-  description: 
-  prefab: {fileID: 0}
+  itemName: Star
+  icon: {fileID: 5199979006384268662, guid: 9a1686c30edfff04c8f6e1224c2d528a, type: 3}
+  description: A star item formed by mixing Triangle_Top and Triangle_Bottom together
+  prefab: {fileID: 5746377625923333099, guid: b9e92e7090af45a4eb999d7bb0718138, type: 3}

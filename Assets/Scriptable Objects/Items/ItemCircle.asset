@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: ItemCircle
   m_EditorClassIdentifier: 
   itemName: Circle
-  icon: {fileID: 0}
+  icon: {fileID: -2413806693520163455, guid: 55edbd49e3a171546bcbf8b3fd4897a2, type: 3}
   description: A circle item for creating the "9-Sliced" item
   prefab: {fileID: 3764444513591491078, guid: dc47e8b9bcd4ba440a9dcdf97ff4d53a, type: 3}
