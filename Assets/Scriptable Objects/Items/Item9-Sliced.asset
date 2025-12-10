@@ -15,4 +15,4 @@ MonoBehaviour:
   itemName: 9-Sliced
   icon: {fileID: -5177388603050735206, guid: c92066388b19ade4b8ab080658f50779, type: 3}
   description: A 9-sliced item formed by mixing Square and Circle together
-  prefab: {fileID: 2509275036609100817, guid: 4231ae71fd971fb43a602112c3419e87, type: 3}
+  worldPrefab: {fileID: 2509275036609100817, guid: 4231ae71fd971fb43a602112c3419e87, type: 3}

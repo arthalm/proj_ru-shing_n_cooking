@@ -10,10 +10,16 @@ public class InventoryUI : MonoBehaviour
     void Start()
     {
         HideHUD();
+        UpdateHud();
     }
 
     // Update is called once per frame
     void Update()
+    {
+
+    }
+
+    public void UpdateHud()
     {
         if (playerInventory.CurrentItem != null)
         {

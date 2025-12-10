@@ -15,4 +15,4 @@ MonoBehaviour:
   itemName: Triangle_Top
   icon: {fileID: 7482667652216324306, guid: 518f7a125f2619447a481f937d05b7e6, type: 3}
   description: A triangle top item for creating the "Star" item
-  prefab: {fileID: 7879865256859150022, guid: 38abb7dc2c972c647a55fee115fe2318, type: 3}
+  worldPrefab: {fileID: 7879865256859150022, guid: 38abb7dc2c972c647a55fee115fe2318, type: 3}

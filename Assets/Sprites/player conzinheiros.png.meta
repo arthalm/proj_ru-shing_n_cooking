@@ -1,0 +1,2314 @@
+fileFormatVersion: 2
+guid: 8803207fb4954144b983861d5365d1a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1804582834242945638
+    second: player conzinheiros_0
+  - first:
+      213: 1600633097300303668
+    second: player conzinheiros_1
+  - first:
+      213: 1129521557242407751
+    second: player conzinheiros_2
+  - first:
+      213: -2140005534177309523
+    second: player conzinheiros_3
+  - first:
+      213: 6428332063642484555
+    second: player conzinheiros_4
+  - first:
+      213: -8518812912861580184
+    second: player conzinheiros_5
+  - first:
+      213: -9013084168631262764
+    second: player conzinheiros_6
+  - first:
+      213: -9059207739233135757
+    second: player conzinheiros_7
+  - first:
+      213: -967227828740123958
+    second: player conzinheiros_8
+  - first:
+      213: -3206476100661215654
+    second: player conzinheiros_9
+  - first:
+      213: 2178782280062139966
+    second: player conzinheiros_10
+  - first:
+      213: 3348186198842307799
+    second: player conzinheiros_11
+  - first:
+      213: 4190093422733609662
+    second: player conzinheiros_12
+  - first:
+      213: 1262726807473409146
+    second: player conzinheiros_13
+  - first:
+      213: 1073412219748358903
+    second: player conzinheiros_14
+  - first:
+      213: 1632031356272116209
+    second: player conzinheiros_15
+  - first:
+      213: -2304098178685579510
+    second: player conzinheiros_16
+  - first:
+      213: -1604279686289947249
+    second: player conzinheiros_17
+  - first:
+      213: 749718213703702287
+    second: player conzinheiros_18
+  - first:
+      213: -5596801776933583535
+    second: player conzinheiros_19
+  - first:
+      213: -5632018601744347313
+    second: player conzinheiros_20
+  - first:
+      213: -3422393897575930300
+    second: player conzinheiros_21
+  - first:
+      213: 8513799695027103964
+    second: player conzinheiros_22
+  - first:
+      213: -8338452709661159048
+    second: player conzinheiros_23
+  - first:
+      213: 1401448250642432651
+    second: player conzinheiros_24
+  - first:
+      213: 7270803943238383011
+    second: player conzinheiros_25
+  - first:
+      213: 2920586208615935942
+    second: player conzinheiros_26
+  - first:
+      213: -1604286198179723569
+    second: player conzinheiros_27
+  - first:
+      213: -4416326961847834416
+    second: player conzinheiros_28
+  - first:
+      213: 1736913930376892962
+    second: player conzinheiros_29
+  - first:
+      213: -1620807251474328751
+    second: player conzinheiros_30
+  - first:
+      213: 3121270804619919336
+    second: player conzinheiros_31
+  - first:
+      213: -4291527863651496786
+    second: player conzinheiros_32
+  - first:
+      213: 8847524335367649488
+    second: player conzinheiros_33
+  - first:
+      213: 8857221976597668907
+    second: player conzinheiros_34
+  - first:
+      213: 6764946863328761164
+    second: player conzinheiros_35
+  - first:
+      213: 6578759069905226168
+    second: player conzinheiros_36
+  - first:
+      213: -8254048661519988123
+    second: player conzinheiros_37
+  - first:
+      213: -1336169864466098059
+    second: player conzinheiros_38
+  - first:
+      213: 8497350971671189117
+    second: player conzinheiros_39
+  - first:
+      213: -8675308082300592279
+    second: player conzinheiros_40
+  - first:
+      213: 207460889195859561
+    second: player conzinheiros_41
+  - first:
+      213: 3359434446939021846
+    second: player conzinheiros_42
+  - first:
+      213: 3253196193935914672
+    second: player conzinheiros_43
+  - first:
+      213: -4904496459853708016
+    second: player conzinheiros_44
+  - first:
+      213: -7970377004651886291
+    second: player conzinheiros_45
+  - first:
+      213: 2150976799694899855
+    second: player conzinheiros_46
+  - first:
+      213: -3272600728011322502
+    second: player conzinheiros_47
+  - first:
+      213: -9184181419499927919
+    second: player conzinheiros_48
+  - first:
+      213: -6613763003679681039
+    second: player conzinheiros_49
+  - first:
+      213: 6036036136656618924
+    second: player conzinheiros_50
+  - first:
+      213: -4109314884465745698
+    second: player conzinheiros_51
+  - first:
+      213: -5836777573293652784
+    second: player conzinheiros_52
+  - first:
+      213: 4465269208307841852
+    second: player conzinheiros_53
+  - first:
+      213: -4235221359243993699
+    second: player conzinheiros_54
+  - first:
+      213: -8693397205496881816
+    second: player conzinheiros_55
+  - first:
+      213: -1796005583845545723
+    second: player conzinheiros_56
+  - first:
+      213: -224563458190768769
+    second: player conzinheiros_57
+  - first:
+      213: -4200565111456873829
+    second: player conzinheiros_58
+  - first:
+      213: -478433171029459175
+    second: player conzinheiros_59
+  - first:
+      213: 6442513055618490038
+    second: player conzinheiros_60
+  - first:
+      213: -2540614626718762600
+    second: player conzinheiros_61
+  - first:
+      213: 5609647420290217267
+    second: player conzinheiros_62
+  - first:
+      213: -8754432800235195212
+    second: player conzinheiros_63
+  - first:
+      213: 4478371548744568568
+    second: player conzinheiros_64
+  - first:
+      213: 5823626110938357058
+    second: player conzinheiros_65
+  - first:
+      213: 2900152011686404994
+    second: player conzinheiros_66
+  - first:
+      213: -6013161652485568809
+    second: player conzinheiros_67
+  - first:
+      213: -7466084288744225315
+    second: player conzinheiros_68
+  - first:
+      213: -4189316859175199338
+    second: player conzinheiros_69
+  - first:
+      213: 1470667707666597469
+    second: player conzinheiros_70
+  - first:
+      213: -5691914746852828651
+    second: player conzinheiros_71
+  - first:
+      213: -1435651425661157163
+    second: player conzinheiros_72
+  - first:
+      213: -8065853161258632463
+    second: player conzinheiros_73
+  - first:
+      213: -3678299401801097828
+    second: player conzinheiros_74
+  - first:
+      213: 4352730728808446755
+    second: player conzinheiros_75
+  - first:
+      213: 7223674401749223253
+    second: player conzinheiros_76
+  - first:
+      213: -6390038622550604825
+    second: player conzinheiros_77
+  - first:
+      213: 3174941461136169236
+    second: player conzinheiros_78
+  - first:
+      213: 5239451297916629733
+    second: player conzinheiros_79
+  - first:
+      213: -3349404079063651088
+    second: player conzinheiros_80
+  - first:
+      213: -3609277015039808443
+    second: player conzinheiros_81
+  - first:
+      213: 6426257448784382560
+    second: player conzinheiros_82
+  - first:
+      213: 1845456014346499587
+    second: player conzinheiros_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player conzinheiros_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 928
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66281d2d68a2b0910800000000000000
+      internalID: 1804582834242945638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 928
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f515c4257963610800000000000000
+      internalID: 1600633097300303668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 928
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b64913fdddcaf00800000000000000
+      internalID: 1129521557242407751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 928
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daccdfd0e4c2d42e0800000000000000
+      internalID: -2140005534177309523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 928
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ff9aff3f5063950800000000000000
+      internalID: 6428332063642484555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 928
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864ffd45ac817c980800000000000000
+      internalID: -8518812912861580184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 880
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d16906b3b71be280800000000000000
+      internalID: -9013084168631262764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 880
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3731a841f8a374280800000000000000
+      internalID: -9059207739233135757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 880
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac292131a67b392f0800000000000000
+      internalID: -967227828740123958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 880
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5efe4f99fe4083d0800000000000000
+      internalID: -3206476100661215654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 880
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ef406a0f69c3e10800000000000000
+      internalID: 2178782280062139966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 880
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d47cdfbb95277e20800000000000000
+      internalID: 3348186198842307799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 832
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaccb594c3362a30800000000000000
+      internalID: 4190093422733609662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 832
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cc0d7575b168110800000000000000
+      internalID: 1262726807473409146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 832
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa1aa70ab685ee00800000000000000
+      internalID: 1073412219748358903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 832
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f106e42fd326a610800000000000000
+      internalID: 1632031356272116209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 784
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f42d30ae23600e0800000000000000
+      internalID: -2304098178685579510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 784
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85005a00247cb9e0800000000000000
+      internalID: -1604279686289947249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 784
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0713714eb8876a00800000000000000
+      internalID: 749718213703702287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 784
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155499fdf6a2452b0800000000000000
+      internalID: -5596801776933583535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 736
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fc2a2ebec07d1b0800000000000000
+      internalID: -5632018601744347313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 736
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446a58df1e63180d0800000000000000
+      internalID: -3422393897575930300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 736
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd86beee6b7172670800000000000000
+      internalID: 8513799695027103964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 736
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871d048807dd74c80800000000000000
+      internalID: -8338452709661159048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 688
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8282ae32c1f27310800000000000000
+      internalID: 1401448250642432651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 688
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5bb3cf9a517e460800000000000000
+      internalID: 7270803943238383011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 688
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf257ccea1088820800000000000000
+      internalID: 2920586208615935942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 688
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc68f6fd33e6cb9e0800000000000000
+      internalID: -1604286198179723569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 640
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d86413e60e06b2c0800000000000000
+      internalID: -4416326961847834416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 640
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222da816402ca1810800000000000000
+      internalID: 1736913930376892962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_30
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 640
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153de76646cb189e0800000000000000
+      internalID: -1620807251474328751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_31
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 640
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8effa25724bf05b20800000000000000
+      internalID: 3121270804619919336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 592
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac8c5f352e6174c0800000000000000
+      internalID: -4291527863651496786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 592
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8763fb188b8ca70800000000000000
+      internalID: 8847524335367649488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 592
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2423ebc57c2bea70800000000000000
+      internalID: 8857221976597668907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_35
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 592
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c459a19745be1ed50800000000000000
+      internalID: 6764946863328761164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 544
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b98490b4827c4b50800000000000000
+      internalID: 6578759069905226168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a0053697ab37d80800000000000000
+      internalID: -8254048661519988123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 544
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5789aec6698f47de0800000000000000
+      internalID: -1336169864466098059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 544
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76184610b7ace570800000000000000
+      internalID: 8497350971671189117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 496
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fd56d434d1b9780800000000000000
+      internalID: -8675308082300592279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 496
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e4e4d549c01e200800000000000000
+      internalID: 207460889195859561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_42
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 496
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612e20894db1f9e20800000000000000
+      internalID: 3359434446939021846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_43
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 496
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6f334c3bca52d20800000000000000
+      internalID: 3253196193935914672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 448
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0154244747abfebb0800000000000000
+      internalID: -4904496459853708016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_45
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 448
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2948c7d758836190800000000000000
+      internalID: -7970377004651886291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_46
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 448
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8acbe1c00ec9dd10800000000000000
+      internalID: 2150976799694899855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 448
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feb82500f5aa834190610cfb00eb7ba
+      internalID: -83838573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 400
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b9d56ec283173488f745acb32de087
+      internalID: -489359483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 400
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fda3f8a8b831a049b1cfc05ba429ada
+      internalID: -385121865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_50
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 400
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a93ba59021bd54e8739c066a138ee1
+      internalID: -1763061599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 400
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6121236469f10de49a479565cbf1a169
+      internalID: -414850447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 352
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfd49d08d0fe554795b9e02c49acd68
+      internalID: -2067749743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_53
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 352
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4cef5d54049384083af313f1cf0846
+      internalID: 1639902329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_54
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 352
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69079aeb8e6d13a44a10b5232085f27f
+      internalID: 1626049680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_55
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 352
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09decd6bfd49d0f4598848618e7b7932
+      internalID: -1526463050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 304
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b288987145f5eef42a450fa6658f5183
+      internalID: 1423299887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_57
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 304
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7084974c5d57d2f428206759813ad752
+      internalID: 1573583292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_58
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 304
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762fa72e1ebe3aa49895acfa5b16b46f
+      internalID: -1941793686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_59
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 304
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c8af88016a3ca49ae8267b53ba13d1
+      internalID: -1488727224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 256
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c009e07532885940af7bb23e9d48c1a
+      internalID: 534917911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_61
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 256
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a359d6dd8f4404c95fc0ffb69e28f6
+      internalID: -2015923157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_62
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 256
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df92c245802c8bd478dcee909b3d732d
+      internalID: 387150571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_63
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 256
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6f7a10b5f11b6479171e75d504edde
+      internalID: -1979075882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 208
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896ce6a5b64294e4898e3069b1a7439c
+      internalID: -197939848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_65
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 208
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3fe2adbd915b9479aab37317ec4a9a
+      internalID: 186681546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_66
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 208
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7627f87bacdff64ba7064bd26c70723
+      internalID: -1232385279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_67
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 208
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11b3a188306d794abcd44a0747a3e61
+      internalID: 1606323414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_68
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 160
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b30ca750b517d4896138cc24b0edc4
+      internalID: -983710810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_69
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 160
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11989e036c2e754d9e5d1317983b030
+      internalID: -1444347273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_70
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 160
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6b132c0c6744040a45c9dcf90100ab
+      internalID: -352545992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_71
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 160
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d80e05f36739104488c6ae5818f83c0
+      internalID: 947239010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 112
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7090b1786b66cce4a959d80913c3641d
+      internalID: 1173987014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_73
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 112
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acb49982bd74c54da9f2cbc514aa77b
+      internalID: -674900410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_74
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 112
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993045a1898c1864ea60f4f1d88c2659
+      internalID: 661888806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_75
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 112
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad6468e98e968d4cbc8f04869961f7d
+      internalID: 500824148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_76
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 64
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43754aea5ae6e6740818bae0f1af61cc
+      internalID: -1325059786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_77
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed285443c236f46419c65ed18f4d4bc4
+      internalID: -1902783185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_78
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 64
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0ee87972309f044ada8a2e39301eea
+      internalID: -176867894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_79
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 64
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2edb7f97f6e884dba19d21c92c8a65
+      internalID: -503312899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_80
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd86edf1bd1473545b2fc08a96b3d84f
+      internalID: 174133455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_81
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 16
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4ef89d8bf588d4e9ea95b1cb6a2a96
+      internalID: 1173407262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_82
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 16
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e453a98946da3042a1c73273c1ef306
+      internalID: 1582299069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player conzinheiros_83
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 16
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76816a887d8b9284e9a7333972cbf166
+      internalID: 432337501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0e562316757a93f409cc369fca190d43
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      player conzinheiros_0: 1804582834242945638
+      player conzinheiros_1: 1600633097300303668
+      player conzinheiros_10: 2178782280062139966
+      player conzinheiros_11: 3348186198842307799
+      player conzinheiros_12: 4190093422733609662
+      player conzinheiros_13: 1262726807473409146
+      player conzinheiros_14: 1073412219748358903
+      player conzinheiros_15: 1632031356272116209
+      player conzinheiros_16: -2304098178685579510
+      player conzinheiros_17: -1604279686289947249
+      player conzinheiros_18: 749718213703702287
+      player conzinheiros_19: -5596801776933583535
+      player conzinheiros_2: 1129521557242407751
+      player conzinheiros_20: -5632018601744347313
+      player conzinheiros_21: -3422393897575930300
+      player conzinheiros_22: 8513799695027103964
+      player conzinheiros_23: -8338452709661159048
+      player conzinheiros_24: 1401448250642432651
+      player conzinheiros_25: 7270803943238383011
+      player conzinheiros_26: 2920586208615935942
+      player conzinheiros_27: -1604286198179723569
+      player conzinheiros_28: -4416326961847834416
+      player conzinheiros_29: 1736913930376892962
+      player conzinheiros_3: -2140005534177309523
+      player conzinheiros_30: -1620807251474328751
+      player conzinheiros_31: 3121270804619919336
+      player conzinheiros_32: -4291527863651496786
+      player conzinheiros_33: 8847524335367649488
+      player conzinheiros_34: 8857221976597668907
+      player conzinheiros_35: 6764946863328761164
+      player conzinheiros_36: 6578759069905226168
+      player conzinheiros_37: -8254048661519988123
+      player conzinheiros_38: -1336169864466098059
+      player conzinheiros_39: 8497350971671189117
+      player conzinheiros_4: 6428332063642484555
+      player conzinheiros_40: -8675308082300592279
+      player conzinheiros_41: 207460889195859561
+      player conzinheiros_42: 3359434446939021846
+      player conzinheiros_43: 3253196193935914672
+      player conzinheiros_44: -4904496459853708016
+      player conzinheiros_45: -7970377004651886291
+      player conzinheiros_46: 2150976799694899855
+      player conzinheiros_47: -83838573
+      player conzinheiros_48: -489359483
+      player conzinheiros_49: -385121865
+      player conzinheiros_5: -8518812912861580184
+      player conzinheiros_50: -1763061599
+      player conzinheiros_51: -414850447
+      player conzinheiros_52: -2067749743
+      player conzinheiros_53: 1639902329
+      player conzinheiros_54: 1626049680
+      player conzinheiros_55: -1526463050
+      player conzinheiros_56: 1423299887
+      player conzinheiros_57: 1573583292
+      player conzinheiros_58: -1941793686
+      player conzinheiros_59: -1488727224
+      player conzinheiros_6: -9013084168631262764
+      player conzinheiros_60: 534917911
+      player conzinheiros_61: -2015923157
+      player conzinheiros_62: 387150571
+      player conzinheiros_63: -1979075882
+      player conzinheiros_64: -197939848
+      player conzinheiros_65: 186681546
+      player conzinheiros_66: -1232385279
+      player conzinheiros_67: 1606323414
+      player conzinheiros_68: -983710810
+      player conzinheiros_69: -1444347273
+      player conzinheiros_7: -9059207739233135757
+      player conzinheiros_70: -352545992
+      player conzinheiros_71: 947239010
+      player conzinheiros_72: 1173987014
+      player conzinheiros_73: -674900410
+      player conzinheiros_74: 661888806
+      player conzinheiros_75: 500824148
+      player conzinheiros_76: -1325059786
+      player conzinheiros_77: -1902783185
+      player conzinheiros_78: -176867894
+      player conzinheiros_79: -503312899
+      player conzinheiros_8: -967227828740123958
+      player conzinheiros_80: 174133455
+      player conzinheiros_81: 1173407262
+      player conzinheiros_82: 1582299069
+      player conzinheiros_83: 432337501
+      player conzinheiros_9: -3206476100661215654
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

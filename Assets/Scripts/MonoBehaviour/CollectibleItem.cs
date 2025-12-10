@@ -2,11 +2,17 @@ using UnityEngine;
 
 public class CollectibleItem : MonoBehaviour
 {
-    [SerializeField] private Item itemData;
+    private PlayerController playerController;
+    [SerializeField] private Item item;
+    public Item ItemData
+    {
+        get => item;
+        set => item = value;
+    }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
@@ -15,19 +21,32 @@ public class CollectibleItem : MonoBehaviour
 
     }
 
-    void OnTriggerEnter2D(Collider2D other)
+    void OnTriggerEnter2D(Collider2D collider)
     {
-        if (other.CompareTag("Player"))
+        if (collider.CompareTag("Player"))
         {
-            PlayerInventory inventory = other.transform.root.GetComponent<PlayerInventory>();
-            if (inventory != null)
+            PlayerInventory playerInventory = collider.transform.root.GetComponent<PlayerInventory>();
+            playerController = collider.transform.root.GetComponent<PlayerController>();
+            if (playerInventory != null)
             {
-                if (!inventory.hasItem)
+                if (!playerInventory.HasItem)
                 {
-                    inventory.AddItem(itemData);
+                    playerInventory.AddItem(ItemData);
                     Destroy(gameObject);
                 }
+                else
+                {
+                    playerController.SetNearbyItem(this);
+                }
             }
+        }
+    }
+
+    void OnTriggerExit2D(Collider2D collider)
+    {
+        if (collider.CompareTag("Player") && playerController != null && playerController.NearbyItem == this)
+        {
+            playerController.SetNearbyItem(null);
         }
     }
 }

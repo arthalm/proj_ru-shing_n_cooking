@@ -15,4 +15,4 @@ MonoBehaviour:
   itemName: Triangle_Bottom
   icon: {fileID: 7482667652216324306, guid: 4fdc3c6f06dd8e54a916c0778fea688a, type: 3}
   description: A triangle bottom item for creating the "Star" item
-  prefab: {fileID: 2772156637571512460, guid: bc75a5d81f2854942af103561c9c2edb, type: 3}
+  worldPrefab: {fileID: 2772156637571512460, guid: bc75a5d81f2854942af103561c9c2edb, type: 3}
