@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a381b33c8ffeda4f91a9128de239f35, type: 3}
+  m_Name: ItemBread
+  m_EditorClassIdentifier: 
+  itemName: Bread
+  icon: {fileID: 21300000, guid: fb0f1f4ac1f84f04c8d8d0f86e8d7e9d, type: 3}
+  description: A whole bread baguette
+  worldPrefab: {fileID: 8954110680740644573, guid: 8fe8708be98a52448b84278f7439594d, type: 3}
