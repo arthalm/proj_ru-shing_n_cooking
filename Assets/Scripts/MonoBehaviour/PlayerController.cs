@@ -9,16 +9,22 @@ public class PlayerController : MonoBehaviour
 {
     private Vector2 direction;
     private Vector2 lastDirection;
-    private Item handItem;
-    private Item floorItem;
     private CollectibleItem nearbyItem;
     [SerializeField] private float speed = 0.2f;
     public CollectibleItem NearbyItem => nearbyItem;
+
+    // Referência para o slot da mão
+    [SerializeField] private Transform handSlot;
+    private SpriteRenderer handSpriteRenderer;
+
+    // ADICIONE ESTE CAMPO para ajustar o tamanho
+    [SerializeField] private float itemScale = 0.5f;
+
     Rigidbody2D rb;
     PlayerInventory playerInventory;
     Animator anim;
     SpriteRenderer sr;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -26,8 +32,23 @@ public class PlayerController : MonoBehaviour
         anim = GetComponent<Animator>();
         sr = GetComponent<SpriteRenderer>();
 
-        anim.SetInteger("Facing", 0);
-        anim.SetFloat("Speed", 0);
+        // Configuração do item na mão
+        if (handSlot != null)
+        {
+            handSpriteRenderer = handSlot.GetComponent<SpriteRenderer>();
+            if (handSpriteRenderer != null)
+            {
+                handSpriteRenderer.enabled = false; // Começa invisível
+            }
+
+            // Aplica o scale inicial
+            ApplyItemScale();
+        }
+        else
+        {
+            Debug.LogWarning("HandSlot não atribuído ao PlayerController!");
+        }
+
         lastDirection = Vector2.down;
     }
 
@@ -36,75 +57,157 @@ public class PlayerController : MonoBehaviour
         rb.MovePosition(rb.position + direction * speed);
     }
 
-    // Update is called once per frame
     void Update()
     {
+        HandleInput();
+        HandleAnimation();
+        HandleInteraction();
+        UpdateHandItem(); // Atualiza item na mão
+    }
+
+    void HandleInput()
+    {
         direction = Vector2.zero;
-        if (Keyboard.current.wKey.isPressed)
+
+        if (Keyboard.current.wKey.isPressed) direction.y += 1;
+        if (Keyboard.current.sKey.isPressed) direction.y -= 1;
+        if (Keyboard.current.aKey.isPressed) direction.x -= 1;
+        if (Keyboard.current.dKey.isPressed) direction.x += 1;
+
+        if (direction.magnitude > 0.1f)
         {
-            direction.y += 1;
+            Vector2 rawDirection = direction;
+            direction.Normalize();
+            lastDirection = rawDirection.normalized;
         }
-        if (Keyboard.current.aKey.isPressed)
+    }
+
+    void HandleAnimation()
+    {
+        bool isMoving = direction.magnitude > 0.1f;
+        bool isHolding = playerInventory.HasItem;
+        Vector2 currentDir = isMoving ? direction : lastDirection;
+
+        string animationToPlay = GetAnimationName(isMoving, isHolding, currentDir);
+
+        anim.CrossFade(animationToPlay, 0.1f);
+
+        if (Mathf.Abs(currentDir.x) > Mathf.Abs(currentDir.y))
         {
-            direction.x -= 1;
-            sr.flipX = true;
+            sr.flipX = currentDir.x < 0;
         }
-        if (Keyboard.current.sKey.isPressed)
+    }
+
+    // Método SIMPLIFICADO: Atualiza o item na mão
+    void UpdateHandItem()
+    {
+        if (handSpriteRenderer == null) return;
+
+        if (playerInventory.HasItem && playerInventory.CurrentItem != null)
         {
-            direction.y -= 1;
-        }
-        if (Keyboard.current.dKey.isPressed)
-        {
-            direction.x += 1;
-            sr.flipX = false;
-        }
-        if (direction != Vector2.zero)
-        {
-            direction = direction.normalized;
-            lastDirection = direction;
-            anim.SetFloat("Speed", 1f);
+            // Mostra o sprite do item
+            handSpriteRenderer.sprite = playerInventory.CurrentItem.Icon;
+            handSpriteRenderer.enabled = true;
+
+            // Aplica o scale atual
+            ApplyItemScale();
+
+            // Aplica flip se necessário
+            ApplyHandFlip();
         }
         else
         {
-            anim.SetFloat("Speed", 0f);
+            // Esconde o item
+            handSpriteRenderer.enabled = false;
         }
+    }
 
-        anim.SetBool("IsHolding", playerInventory.HasItem);
-        if (direction != Vector2.zero)
+    // NOVO MÉTODO: Aplica o scale ao item
+    void ApplyItemScale()
+    {
+        if (handSlot == null) return;
+
+        // Aplica o scale uniforme (mesmo valor para X e Y)
+        float currentScale = Mathf.Abs(handSlot.localScale.x); // Pega valor absoluto atual
+        float targetScale = itemScale;
+
+        // Se estiver flipado, mantém o negativo
+        if (handSlot.localScale.x < 0)
         {
-            direction = direction.normalized;
-
-            if (Mathf.Abs(direction.y) > Mathf.Abs(direction.x))
-            {
-                anim.SetInteger("Facing", direction.y > 0 ? 1 : 0);
-            }
-            else
-            {
-                anim.SetInteger("Facing", 2);
-                sr.flipX = direction.x < 0;
-            }
-
-            lastDirection = direction;
+            handSlot.localScale = new Vector3(-targetScale, targetScale, 1f);
         }
         else
         {
-            if (Mathf.Abs(lastDirection.y) > Mathf.Abs(lastDirection.x))
-            {
-                anim.SetInteger("Facing", lastDirection.y > 0 ? 1 : 0);
-            }
-            else
-            {
-                anim.SetInteger("Facing", 2);
-                sr.flipX = lastDirection.x < 0;
-            }
+            handSlot.localScale = new Vector3(targetScale, targetScale, 1f);
+        }
+    }
+
+    // Aplica flip ao item se o personagem estiver virado
+    void ApplyHandFlip()
+    {
+        if (handSlot == null) return;
+
+        Vector2 currentDir = (direction.magnitude > 0.1f) ? direction : lastDirection;
+
+        // Só aplica flip se for animação side e personagem estiver virado para esquerda
+        string currentAnim = GetAnimationName(false, playerInventory.HasItem, currentDir);
+        if (currentAnim.Contains("Side") && sr.flipX)
+        {
+            handSlot.localScale = new Vector3(-itemScale, itemScale, 1f);
+        }
+        else
+        {
+            handSlot.localScale = new Vector3(itemScale, itemScale, 1f);
+        }
+    }
+
+    string GetAnimationName(bool isMoving, bool isHolding, Vector2 direction)
+    {
+        string baseName = "MaleCook_";
+        string stateName = "";
+
+        if (direction.magnitude < 0.1f)
+        {
+            direction = lastDirection;
         }
 
-        if (Keyboard.current.eKey.wasPressedThisFrame)
+        float absX = Mathf.Abs(direction.x);
+        float absY = Mathf.Abs(direction.y);
+
+        if (Mathf.Abs(absX - absY) < 0.2f)
         {
-            if (playerInventory.CurrentItem != null && nearbyItem != null)
-            {
-                SwitchItems(playerInventory, nearbyItem);
-            }
+            stateName = "IdleSide";
+        }
+        else if (absY > absX)
+        {
+            if (direction.y > 0)
+                stateName = "IdleUp";
+            else
+                stateName = "IdleDown";
+        }
+        else
+        {
+            stateName = "IdleSide";
+        }
+
+        if (isHolding)
+        {
+            stateName += "Holding";
+        }
+
+        if (isMoving)
+        {
+            stateName = stateName.Replace("Idle", "Walk");
+        }
+
+        return baseName + stateName;
+    }
+
+    void HandleInteraction()
+    {
+        if (Keyboard.current.eKey.wasPressedThisFrame && playerInventory.CurrentItem != null && nearbyItem != null)
+        {
+            SwitchItems(playerInventory, nearbyItem);
         }
     }
 
@@ -116,8 +219,8 @@ public class PlayerController : MonoBehaviour
     public void SwitchItems(PlayerInventory pi, CollectibleItem ci)
     {
         Vector2 spawnPosition = ci.transform.position;
-        handItem = pi.CurrentItem;
-        floorItem = ci.ItemData;
+        Item handItem = pi.CurrentItem;
+        Item floorItem = ci.ItemData;
         pi.AddItem(floorItem);
         SpawnCollectibleAfterSwitch(handItem, spawnPosition);
         Destroy(ci.gameObject);

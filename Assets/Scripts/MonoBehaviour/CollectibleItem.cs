@@ -23,7 +23,7 @@ public class CollectibleItem : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collider)
     {
-        if (collider.CompareTag("Player"))
+        if (collider.transform.root.CompareTag("Player"))
         {
             PlayerInventory playerInventory = collider.transform.root.GetComponent<PlayerInventory>();
             playerController = collider.transform.root.GetComponent<PlayerController>();
@@ -44,7 +44,7 @@ public class CollectibleItem : MonoBehaviour
 
     void OnTriggerExit2D(Collider2D collider)
     {
-        if (collider.CompareTag("Player") && playerController != null && playerController.NearbyItem == this)
+        if (collider.transform.root.CompareTag("Player") && playerController != null && playerController.NearbyItem == this)
         {
             playerController.SetNearbyItem(null);
         }

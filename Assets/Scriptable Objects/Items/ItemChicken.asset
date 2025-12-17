@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a381b33c8ffeda4f91a9128de239f35, type: 3}
+  m_Name: ItemChicken
+  m_EditorClassIdentifier: 
+  itemName: Chicken
+  icon: {fileID: 21300000, guid: 511e19e493b41c440b586582bf736337, type: 3}
+  description: A chicken
+  worldPrefab: {fileID: 1877204204280530118, guid: d78467cfc05e49b4e8e58945d711991b, type: 3}
